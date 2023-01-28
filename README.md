@@ -4,3 +4,4 @@
 tekst
 promqna ot github
 [x] Zdravei
+[x] test
