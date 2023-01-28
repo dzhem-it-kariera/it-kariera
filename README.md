@@ -3,3 +3,4 @@
 
 tekst
 promqna ot github
+[x] Zdravei
