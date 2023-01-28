@@ -2,4 +2,4 @@
 ## po-malko
 
 tekst
-nestho
+promqna ot github
